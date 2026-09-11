@@ -1,0 +1,1 @@
+import{n as e,p as t,t as n}from"./Footer-CrW8xFaU.js";var r=t();function i({children:t}){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(e,{variant:`doc`}),(0,r.jsx)(`main`,{className:`wrap doc py-[clamp(40px,6vw,72px)]`,children:t}),(0,r.jsx)(n,{variant:`doc`})]})}export{i as t};
