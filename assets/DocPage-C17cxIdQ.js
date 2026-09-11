@@ -1,0 +1,1 @@
+import{f as e,n as t,t as n}from"./Footer-DypZOH_y.js";var r=e();function i({children:e}){return(0,r.jsxs)(r.Fragment,{children:[(0,r.jsx)(t,{variant:`doc`}),(0,r.jsx)(`main`,{className:`wrap doc py-[clamp(40px,6vw,72px)]`,children:e}),(0,r.jsx)(n,{variant:`doc`})]})}export{i as t};
